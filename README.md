@@ -1,8 +1,3 @@
----
-title: Sistem Parkir Cerdas UI
-
----
-
 # Sistem Parkir Cerdas UI
 
 Program ini merupakan sistem rekomendasi dan reservasi parkir sederhana berbasis client-server menggunakan C++.
