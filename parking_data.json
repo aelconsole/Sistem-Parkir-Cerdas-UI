@@ -1,0 +1,9 @@
+[
+  {"id":"P-FT","nama":"Parkir FT","x":-30,"y":30,"kapasitas":5,"tersedia":0,"tipe":"fakultas"},
+  {"id":"P-FEB","nama":"Parkir FEB","x":-10,"y":30,"kapasitas":5,"tersedia":4,"tipe":"fakultas"},
+  {"id":"P-FH","nama":"Parkir FH","x":35,"y":45,"kapasitas":5,"tersedia":3,"tipe":"fakultas"},
+  {"id":"P-FISIP","nama":"Parkir FISIP","x":20,"y":30,"kapasitas":5,"tersedia":4,"tipe":"fakultas"},
+  {"id":"P-FIB","nama":"Parkir FIB","x":10,"y":30,"kapasitas":5,"tersedia":4,"tipe":"fakultas"},
+  {"id":"P-STAD","nama":"Parkir Stadion","x":-30,"y":0,"kapasitas":5,"tersedia":3,"tipe":"umum"},
+  {"id":"P-MIPA","nama":"Parkir FMIPA","x":0,"y":-20,"kapasitas":5,"tersedia":3,"tipe":"fakultas"}
+]
